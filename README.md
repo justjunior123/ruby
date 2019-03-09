@@ -1,2 +1,2 @@
 # ruby
-learn ruby..
+learn ruby...
